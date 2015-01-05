@@ -1,6 +1,5 @@
 ---
 title: Submit Your Feature
-layout: post
 ---
 # Submit Your Feature
 
@@ -11,10 +10,10 @@ ant retrievePackagedToSrc
 ant updatePackageXml
 ```
 
-Or use the eGit plugin like this: 
+Or use the eGit plugin like this:
 
 
-Now we can verify our changes are correct by viewing changes in git, with commands like 
+Now we can verify our changes are correct by viewing changes in git, with commands like
 
 ```sh
 git status
@@ -52,18 +51,3 @@ The purpose of the Warning section is to highlight changes that all users need t
 At this point we’ll review your pull request. We may come back to you with changes, in which case you can push updates to the same github branch and they’ll be automatically included in the pull request.
 
 Once everything is hunkey dorey, we’ll approve your pull request and your changes will officially be part of NPSP!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
